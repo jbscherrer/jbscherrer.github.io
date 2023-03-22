@@ -1,23 +1,6 @@
 <html>
 <head>
-<title>Joe Scherrer's Home Page</title>
-<style>
-.container {
-  display: flex;
-  width: 450px;
-  height: 300px;
-  border: 2px solid red;
-}
-.container div {
-  flex: 1;
-}
-.container img {
-  max-width:100%;
-}
-</style>
-
-<meta name="google-site-verification" content="5_OJ-nyMnbx_9WUXYOACe5rN5Y23I839slVrR8JfHiI" />
-
+<title>Joe Scherrer's Home Page</title>link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 </head>
 
 <body bgcolor=white link=black vlink=black alink=black>
@@ -29,9 +12,11 @@
 <br><br>
 
 <img src="scherrer_headshot.jpg" alt="headshot" style="width:300px;height:300px;">
+<A href=https://en.wikipedia.org/wiki/Fusor><img src="fusor.png" alt="plasma from a fusor I built in college with my friend Adam Bowman" style="width:574px;height:300px;"></A>
+
 <br><br>
 
-<b>Joe Scherrer</b><br>
+Joe Scherrer<br>
 <A href=pronouns.jpg>they/them</A><br>
 <br>
 PhD student and <a href=https://www.hertzfoundation.org/person/joseph-scherrer/>Hertz Fellow</a> in <a href=http://cba.mit.edu>the Fee Lab</a> at <a href=http://www.mit.edu>MIT</a> building <a href=https://github.com/FeeLab/Fee-Scopes>tiny open-source microscopes</a> for neuroscience (paper <a href=scope_paper.pdf>here</a>)<br>
@@ -48,10 +33,7 @@ joebob@mit.edu<br>
 @cuddlefish@mastodon.mit.edu<br>
 <br>
 My <a href=scherrer_cv.pdf>CV</a>
-<br><br>
-
-<A href=https://en.wikipedia.org/wiki/Fusor><img src="fusor.png" alt="plasma from a fusor I built in college with my friend Adam Bowman" style="width:574px;height:300px;"></A>
-
+<br>
 
 </body>
 </html>
