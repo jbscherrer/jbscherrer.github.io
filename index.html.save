@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Joe Scherrer's Home Page</title>link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+</head>
+
+<body bgcolor=white link=black vlink=black alink=black>
+
+<font color=black face="bitstream vera sans,arial,helvetica,sans-serif">
+
+<div style="margin-left:5%; margin-right:10%; line-height:125%">
+
+<br><br>
+
+<img src="scherrer_headshot.jpg" alt="headshot" style="width:300px;height:300px;">
+<A href=https://en.wikipedia.org/wiki/Fusor><img src="fusor.png" alt="plasma from a fusor I built in college with my friend Adam Bowman" style="width:574px;height:300px;"></A>
+
+<br><br>
+
+Joe Scherrer<br>
+<A href=pronouns.jpg>they/them</A><br>
+<br>
+PhD student and <a href=https://www.hertzfoundation.org/person/joseph-scherrer/>Hertz Fellow</a> in <a href=http://cba.mit.edu>the Fee Lab</a> at <a href=http://www.mit.edu>MIT</a> building <a href=https://github.com/FeeLab/Fee-Scopes>tiny open-source microscopes</a> for neuroscience (paper <a href=scope_paper.pdf>here</a>)<br>
+<br>
+Previously a Fulbright Scholar at the <a href=https://www.bi.mpg.de/en>Max Planck Institute for Biological Intelligence</a> working on high-throughput scanning electron microscopes for whole-brain mammalian connectomics with <a href=https://cdn.sanity.io/files/qpjzy3y9/production/2fe9a0cde82cabff9893741435e7540ff547a556.pdf>Winfried Denk</a><br>
+<br>
+Other interests include physics, hobbyist science/engineering, high voltage, science demo art, chronic pain/illness, vipassana meditation, marine biology (esp. cephalopods), cooperative living, psychopharmacology, industrial archaeology, wikipedia, and foxes<br>
+<br>
+Room 46-5143<br>
+43 Vassar St.<br>
+Cambridge, MA 02139<br>
+<br>
+joebob@mit.edu<br>
+@cuddlefish@mastodon.mit.edu<br>
+<br>
+My <a href=scherrer_cv.pdf>CV</a>
+<br>
+
+</body>
+</html>
